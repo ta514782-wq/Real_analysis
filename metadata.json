@@ -1,0 +1,6 @@
+{
+  "name": "GradAI — Mathematical Optimization Laboratory",
+  "description": "Interactive Gradient Descent and Real Analysis optimization laboratory with symbolic differentiation, 3D surface plotting, convergence analysis, and machine learning training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
